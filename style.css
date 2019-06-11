@@ -1,17 +1,30 @@
 .header{
-  background-color: CornflowerBlue;
   text-align:center;
+  margin: 20px;
+  background-color: CornflowerBlue;
+  padding: 3px;
 }
 .about-me{
+  boarder: 5px;
+  height: 2;
   font-size: 15px;
-  opacity:0.5;
+  opacity:0.4;
+  margin-bottom:20px;
+  background-color: White;
+}
+.opener{
+  font-size: 25px;
 }
 .title {
   font-weight: bold;
-
+}
+.add-me{
+  font-size: 15px;
 }
 h1 {
  color: Azure;
+ background-color: CornflowerBlue;
+ opacity:0.6;
 }
 body{
   font-family:courier;
